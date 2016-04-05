@@ -1,0 +1,3 @@
+org\elasticsearch\awesomeplugin\AwesomePluginModule.class
+org\elasticsearch\awesomeplugin\AwesomePluginService.class
+org\elasticsearch\plugin\awesomeplugin\App.class
